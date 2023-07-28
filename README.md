@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Nuxt and Microservices
 
-- ❓ You can Email Me Through [Here](lucasribotta15@gmail.com)
+- ❓ You can Email Me Through [Here](mailto:johan.s_vanegas@hotmail.com)
 
 - ⚡ Fun fact: I use tabs over spaces 
 
